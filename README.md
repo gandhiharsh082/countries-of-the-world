@@ -12,7 +12,7 @@ A simple web application that allows users to search for countries and get usefu
 ---
 
 ## 📸 Demo Screenshot
- <img src="/screenshot.png alt='Screenshot'>
+ <img src="/screenshot.png" alt="screenshot">
 
 ---
 
